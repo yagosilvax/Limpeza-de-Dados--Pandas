@@ -29,13 +29,13 @@ Após a limpeza da base, o script realiza análises automatizadas para responder
 
 ---
 
-## Estrutura de Pastas e Configuração:
+## Estrutura de Pastas e Configuração
 
 Para rodar o projeto, é necessário replicar a estrutura de diretórios esperada pelo script Python:
 
 ```text
-📂 Seu-Repositorio/
-├── 📄 analise_cafeteria.py         # Script principal de tratamento e análise
+📂 Analise de Dados/
+├── 📄 scripy-python.py         # Script principal de tratamento e análise
 ├── 📄 README.md                     # Documentação do projeto
 └── 📂 datasets/
     └── 📂 processados/              # Pasta onde o Pandas salvará o arquivo tratado
