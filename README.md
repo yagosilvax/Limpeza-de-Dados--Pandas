@@ -35,7 +35,7 @@ Para rodar o projeto, é necessário replicar a estrutura de diretórios esperad
 
 ```text
 📂 Analise de Dados/
-├── 📄 scripy-python.py         # Script principal de tratamento e análise
+├── 📂 Script-python                 # Script principal de tratamento e análise
 ├── 📄 README.md                     # Documentação do projeto
 └── 📂 datasets/
     └── 📂 processados/              # Pasta onde o Pandas salvará o arquivo tratado
